@@ -1,0 +1,7 @@
+2022-12-20 21:12:10,913 - GoogleSearch -INFO - Launch the chrome browser
+2022-12-20 21:12:11,066 - GoogleSearch -INFO - Browser window maximized
+2022-12-20 21:12:19,542 - GoogleSearch -INFO - Enter the Google URL
+2022-12-20 21:12:19,677 - GoogleSearch -INFO - Apache Log4j enter in Google Search
+2022-12-20 21:12:22,691 - GoogleSearch -INFO - Wait for 3 Seconds
+2022-12-20 21:12:45,112 - GoogleSearch -INFO - Enter keyword pressed in google search
+2022-12-20 21:12:46,267 - GoogleSearch -INFO - Browser closed
